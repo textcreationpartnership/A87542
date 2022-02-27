@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lamentable and sad nevves from the north. Viz. Yorke; Lancaster, Darby, and Newcastle, sent in a letter from a gentleman resident in Yorke, to his friend living in Lumbard Street. Also strange newes from Leicester, how Colonell Lunsford, Captain Legg, and Mr Hastings have appeared in a warlike manner, with a true discovery of their intention, and the manner of the opposition by the Earle of Stanfoord lord lieutenant of that county.</title>
+            <author>Jenkinson, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87542</idno>
+            <idno type="STC">Wing J617</idno>
+            <idno type="STC">Thomason E154_5</idno>
+            <idno type="STC">ESTC R20839</idno>
+            <idno type="EEBO-CITATION">99867345</idno>
+            <idno type="PROQUEST">99867345</idno>
+            <idno type="VID">156815</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87542)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156815)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E154[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lamentable and sad nevves from the north. Viz. Yorke; Lancaster, Darby, and Newcastle, sent in a letter from a gentleman resident in Yorke, to his friend living in Lumbard Street. Also strange newes from Leicester, how Colonell Lunsford, Captain Legg, and Mr Hastings have appeared in a warlike manner, with a true discovery of their intention, and the manner of the opposition by the Earle of Stanfoord lord lieutenant of that county.</title>
+                  <author>Jenkinson, William.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Thomlinson, and T. Watson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Will. Ienkinson.</note>
+                  <note>Author is William Jenkinson.  Cf. Halkett and Laing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156815:1"/>
+            <!-- PDF PAGE 97 -->
+            <pb facs="tcp:156815:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 97 -->
+            <p>LAMENTABLE AND SAD NEVVES FROM THE NORTH <hi>viz. Yorke; Lancaſter, Darby,</hi> and <hi>Newcaſtle,</hi> Sent in a Letter from a Gentleman reſident in <hi>Yorke,</hi> to his friend living in <hi>Lumbard<g ref="char:punc">▪</g>ſtreet.</hi>
+            </p>
+            <p>ALSO Strange Newes from <hi>Leiceſter,</hi> how Colonell <hi>Lunsford,</hi> Captain <hi>Legg,</hi> and Mr <hi>Haſtings</hi> have appeared in a warlike Manner, with a true diſco<g ref="char:EOLhyphen"/>very of their intention, and the manner of the oppoſition by the Earle of <hi>Stanfoord</hi> Lord Lieutenant of that County.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Thomlinſon,</hi> and <hi>T. Watſon.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156815:2"/>
+            <!-- PDF PAGE 98 -->
+            <pb n="3" facs="tcp:156815:2"/>
+            <!-- PDF PAGE 98 -->
+            <head>LAMENTABLE <hi>NEWES</hi> FROM THE NORTH.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording to my engage<g ref="char:EOLhyphen"/>ments when I was at Lon<g ref="char:EOLhyphen"/>don, I can do no leſſe then advertiſe you of our neweſt newes at <hi>Yorke,</hi> which in<g ref="char:EOLhyphen"/>deed at this time is ſo terri<g ref="char:EOLhyphen"/>ble, that it would melt an adamantine heart into tears to Relate.</p>
+            <p>The Rebellious inſurec<g ref="char:EOLhyphen"/>tion and wicked polices and ſtratagems of theſe moſt Helliſh Papiſts and malignant party are growne to ſuch an head, that tis feared without the great mercy of God, we are like to undergo the hardeſt cenſure and bloody<g ref="char:EOLhyphen"/>eſt devices they poſſibly can inflict upon this our flou<g ref="char:EOLhyphen"/>riſhing Kingdom, the whole City and County of <hi>Yorke,</hi> is ſo grievioufly perplexed with the fear of a civill war, which ſtill theſe Cavaliers with oathes and threats doe dayly inſiſt to the terrour of all good Chriſtians they are now grown to ſo inſolent and turbulent ſpirits being countenanced with the ſmiles of many noble-men that
+<pb n="4" facs="tcp:156815:3"/>
+               <!-- PDF PAGE 99 -->men cannot diſpoſe of their own goods themſelves nor families, nor indeed being in poſſeſſion of them over night, know not whether they may lay claime to them as their owne the next morning or no, for their will is a Law, and what other men have is theirs contrary to Law, <hi>nolens volens.</hi>
+            </p>
+            <p>For their own parts, they are wickedly grown deſpe<g ref="char:EOLhyphen"/>rate, through the favours of ſo many men of note in <hi>Yorke,</hi> Noblemen, that they care not for the ruination of a whole Kingdome, ſo themſelves may imbrue their hands in innocent blood, which the Lord bee mercifull to us, if we come to ſtand to their mercy, for then ſhall we ſee our Wives raviſhed before our faces, our chil<g ref="char:EOLhyphen"/>drens braines daſhed out againſt the walles, and our ſelves expoſed with ſo great loſſe to the adventure upon any oppoſition of far more tyrannie if poſſibly infllicted on us: therefore had we need in time to call and cry unto the Lord to be mercifull unto us, and to this our finfull Nation and unanimiouſly joyne againſt viper<g ref="char:EOLhyphen"/>ous brood of Sathan, and locuſts of the bot tomleſſepit.</p>
+            <p>They have ſhewed themſelves ſo inſolent; and ſo aſſu<g ref="char:EOLhyphen"/>red of poſſeſſion of the city of <hi>London,</hi> that for a wanton kiſſe of their Ladies, they have undertaken to ſell any mans goods or Iewells, or what elſe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey require, which is the propriety of any mans in the Kingdome, and ſo careleſſe have they bin here to pay for any thing which they have a mind to, that they take it with a let's ſee who dares ſay, let it belong to who it will.</p>
+            <p>They will as familiarly come into a Taverne or ale<g ref="char:EOLhyphen"/>houſe cellar, and knock out the bottome of the veſſels, and make nothing of it to drinke ſo long as they thinke good, ſo is it likewiſe if they have occaſion for cloathes, boots, or any other commodities in the City, take them
+<pb n="5" facs="tcp:156815:3"/>
+               <!-- PDF PAGE 99 -->without demanding what's to pay, promiſing when they receives pay or pillage to pay them, which upon the leaſt oppoſition, they undergoe the right of their cane, and upon any further reſiſtance, ſlaſh them with their ſwords.</p>
+            <p>And in the like nature hath the whole County of <hi>York</hi> undergone the puniſhment theſe caviliers thought fit to inflect upon them, by riding, 20. 30. 40. in a troop 10. or 12. miles f<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om the City a purving where with them, all is fiſh which come to the net, be they poore or rich that are looſers, 'tis all one to them.</p>
+            <p>Likewiſe, in contempt of all Iuſtice, they have abuſed many honourable perſonages, imploye by the Parlia<g ref="char:EOLhyphen"/>ment in <hi>Yorke,</hi> and other places adjacent, ſwear<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing bit<g ref="char:EOLhyphen"/>terly, Damne and ſinke them, they will be revenged on the Puritan Parliament, and all other adherents the Citizens of <hi>London.</hi> So that with their bloody oathes, and moſt damnable actions, ter<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ible to relate, the whole City and County of <hi>Yorke</hi> is fruſtrate of that happines and fruition, which we might by the providence of God enjoy.</p>
+            <p>But now to the terror and amazement of all true har<g ref="char:EOLhyphen"/>ted proteſtants, other neighbouring Counties are like (without the aboundant mercy of God) to bee ſharers of this dolefull tragedy now acting in the North, for they have already begun their deſperate intentions in Lancaſter, as may appeare by the Lord <hi>Strange</hi> his Car<g ref="char:EOLhyphen"/>riadge there, where, with a company of about 700 men hath by vertue of the Commiſſion of Array, diſpoſed of ſome part of the Magazine there, and hath oppoſed the Deputy Lieftenant, appointed by the ordinance for the Militia, for putting the ſame in execution, and like<g ref="char:EOLhyphen"/>wiſe it plainly appears by his Majeſties letter to Sir <hi>Iohn
+<pb n="6" facs="tcp:156815:4"/>
+                  <!-- PDF PAGE 100 -->Gerlington</hi> the high Sheriffe of that County to ſum up all the proteſtant Subjects with all ſpeed at <hi>Preſton,</hi> to heare his Maieſties two laſt declarations, and the Lan<g ref="char:EOLhyphen"/>caſhire petition to the King, and his Majeſties anſwer thereunto, ſome of the Committees for <hi>Lancaſter</hi> deſi<g ref="char:EOLhyphen"/>red the forbearance of them to be read, but hee in con<g ref="char:EOLhyphen"/>tempt of their order from the Parliament departed with ſome of his friends, and cryed out, all that are for the King go with us, crying, for the King, for the King, and ſo about 400 perſons, wherof the moſt part of them were popiſh Recuſants went with him and ridde up and downe the moore, and cryed, for the King, for the King, but far more in number ſtayed with the Committee and prayed for the uniting of the King and Parliament with a generall acclamation, ſo that ti's thought ſince the Committees going there, it hath wonderfully wrought upon the hearts of the people; but upon contempt of the Committee Sir <hi>Iohn Gerlington,</hi> Sir <hi>George Middleton</hi> and Sir <hi>Edward Fitton</hi> are ſent for to the Houſe as delin<g ref="char:EOLhyphen"/>quents and for <hi>Manchester,</hi> they all ſtand upon their own guard, with their ſhops ſhut up, well affected to the Kings Majeſty and both his Houſes of Parliament, in oppoſition of any that ſhall oppoſe them, and the coun<g ref="char:EOLhyphen"/>try round adjoyning, are very obſervant to any com<g ref="char:EOLhyphen"/>mand, to be in readineſſe to attend there or elſe where for the defence of their Countrey, lives, liberties, and eſtates, and the defence of the true proteſtant Religion with their lives and all that is theirs, ſo that it is now probable that the Lord Strange hath diſmiſſed the moſt part of his men, and is weary of what hee hath begun, ſeeing no more ſupply come to his Lordſhip, and heare<g ref="char:EOLhyphen"/>ing of the ſtay of foure of his engines of warre to bee ſent to him ſtayed at the b<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>l ſavagene<gap reason="illegible: bleedthrough" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eet bridge according to his expectation.</p>
+            <p>
+               <pb n="7" facs="tcp:156815:4"/>
+               <!-- PDF PAGE 100 -->
+We alſo credibly heare, that Colonel <hi>Lansford</hi> and Captain <hi>Legge</hi> have appeared at <hi>Leiceſter</hi> with about 500 men, horſe and foote, and great ſtore of powder, match, and ammunition, where aboue a hundred more Cavi<g ref="char:EOLhyphen"/>leers are gone to tender their ſervice, alſo one Mr. <hi>Hast<g ref="char:EOLhyphen"/>ings</hi> came out of <hi>Darby-ſhire,</hi> with about 300 men, ſome 100. Colyers and 32. miniſters ſuch as they were, to a<g ref="char:EOLhyphen"/>nimate their cauſe, and Mr. <hi>Haſtings</hi> muſtered about 100 horſe, 120. musketteirs, and 80 pikes, by vertue of the Commiſſion of Array, who (as it is thought) came on purpoſe, to ioyne with Colonell <hi>Lunsford</hi> and Captain <hi>Legge,</hi> but being diſappointed, Mr. <hi>Haſtings</hi> for feare ſtole away in the night, and left his prieſts and Colliers to contend with each other, who was the cauſe of their following ſo light a heeld gentleman, ſo the men were diſmiſſed, &amp; their arms taken away, and ſent them every one into his owne Countrey, but ſince we hear that Mr. <hi>Haſtings</hi> is ioyned with Colonell <hi>Lunsford</hi> and Captain <hi>Legge,</hi> we heare that the Earle of <hi>Stamford,</hi> Lord Lieute<g ref="char:EOLhyphen"/>nant of that County, ſeeks by all meanes to ſuppreſſe with his wiſedome and gravity theſe, and all other the like inſurrections and rebellions, but what the event will be the Lord knowes.</p>
+            <p>We alſo heare from Newcaſtle, that the Earle of Newcaſtle hath placed about 500 men in garriſon, is raiſing a troope of Horſe; and beats the Drum for Vo<g ref="char:EOLhyphen"/>luntiers, but the trained bands in moſt places Refuſe to come in, alſo 4 peeces of Ordnanc<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is carryed down to South <hi>Tixmonth,</hi> and there are 300 men in worke ma<g ref="char:EOLhyphen"/>king a Sconce to command all ſhips that come in, and go out, the towne is in greater perplexity already, then they were all the time the Scots were there, and Ship maſters refuſe to go in, leaſt their ſhips be ſtayed,
+<pb n="8" facs="tcp:156815:5"/>
+               <!-- PDF PAGE 101 -->ſeeing ſuch ſtrange combuſtion beginning to ariſe.</p>
+            <p>Thus having certified you of the trueſt newes that is now amongſt us, which I pray God in his good time to ceaſe all ſuch Turbulent and malicious diſturbers of this Common wealth, with my beſt reſpects to your ſelfe, and love to all my friends, with the next conve<g ref="char:EOLhyphen"/>nience you ſhall heare from me. In the meane time I take my leave, and reſt.</p>
+            <closer>
+               <signed>Your aſſured Loving Friend, <hi>Will. Ienkinſon.</hi>
+               </signed>
+            </closer>
+            <trailer>FJNIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
